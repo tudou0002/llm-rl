@@ -253,5 +253,13 @@ if __name__ == "__main__":
 
     exit()
 
-    # python evaluate.py --dataset OVERRULING --split test --model_path ../script/d3rlpy_logs/cql_OVERRULING_C_20250412180647/model_3000.d3 --traj_type C
-    # python evaluate.py --dataset SCIQ --split test --model_path ../script/d3rlpy_logs/cql_SCIQ_C/model_20000.d3 --traj_type C 
+# python evaluate.py --dataset OVERRULING --split test --model_path ../script/d3rlpy_logs/cql_OVERRULING_C/model_20000.d3 --traj_type C
+# python evaluate.py --dataset SCIQ --split test --model_path ../script/d3rlpy_logs/cql_SCIQ_C/model_20000.d3 --traj_type C 
+# python evaluate.py --dataset SCIQ --split test --model_path ../script/d3rlpy_logs/cql_SCIQ_CR/model_50000.d3 --traj_type CR
+# python evaluate.py --dataset SCIQ --split test --model_path ../script/d3rlpy_logs/cql_SCIQ_CRG/model_80000.d3 --traj_type CRG
+# python evaluate.py --dataset HEADLINES --split test --model_path ../script/d3rlpy_logs/cql_HEADLINES_C/model_20000.d3 --traj_type C
+# python evaluate.py --dataset HEADLINES --split test --model_path ../script/d3rlpy_logs/cql_HEADLINES_CR/model_50000.d3 --traj_type CR
+# python evaluate.py --dataset HEADLINES --split test --model_path ../script/d3rlpy_logs/cql_HEADLINES_CRG/model_80000.d3 --traj_type CRG
+# python evaluate.py --dataset AGNEWS --split test --model_path ../script/d3rlpy_logs/cql_AGNEWS_C/model_20000.d3 --traj_type C
+# python evaluate.py --dataset AGNEWS --split test --model_path ../script/d3rlpy_logs/cql_AGNEWS_CR/model_50000.d3 --traj_type CR
+# python evaluate.py --dataset AGNEWS --split test --model_path ../script/d3rlpy_logs/cql_AGNEWS_CRG/model_80000.d3 --traj_type CRG
